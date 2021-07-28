@@ -1,5 +1,5 @@
 # Data-Exploration-Visualization
-Coursework - taught by Dávid Visontai et al. @ ELTE
+Coursework - taught by Dávid Visontai et al. @ ELTE TTK
 
 To view bigger HTML files, I recommend https://htmlpreview.github.io/ .
 
